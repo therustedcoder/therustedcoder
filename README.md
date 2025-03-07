@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mohamed Emam, a self taught software Developer focused
+I'm Mohamed Emam, a self taught software Developer focused on working with Java
 
 <!--
 **therustedcoder/therustedcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
